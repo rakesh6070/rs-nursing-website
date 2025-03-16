@@ -1,0 +1,4 @@
+function showMessage() {
+    alert("RS Nursing में आपका स्वागत है!");
+}
+
